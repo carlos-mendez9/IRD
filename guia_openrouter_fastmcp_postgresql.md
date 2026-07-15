@@ -143,10 +143,10 @@ Nunca se debe compartir una clave real en documentos, repositorios, chats o capt
 
 https://openrouter.ai/workspaces/default/keys
 
-![[1.png]]
+![[1.png|672]]
 
 
-![[Pasted image 20260715161515.png]]
+![[2.png]]
 
 
 ## 2.2 Configurar la variable de entorno
